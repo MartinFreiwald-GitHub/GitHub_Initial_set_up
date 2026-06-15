@@ -1,4 +1,4 @@
-# GitHub Decumentation
+# GitHub Documentation
 ## How to Setup your GitHub new repository.  
 
 ### Introduction
