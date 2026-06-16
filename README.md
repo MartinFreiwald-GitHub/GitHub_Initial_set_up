@@ -1,4 +1,4 @@
-![banner](/pic/github_pic.jpg)
+![banner](/pics/github_pic.jpg)
 
 # GitHub Documentation
 ## How to Setup your GitHub new repository.  
