@@ -18,7 +18,7 @@ Below the network time line shows commits as the dots on the line.  Followed by 
 
 **Deleting and restoring branches in a pull request, Visit** https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/deleting-and-restoring-branches-in-a-pull-request
 
-GitHub uses git software to include the .git folder database inside.
+**GitHub uses git software to include the .git folder database inside.**
 
 + Credit: GitHub Inc.  web content: https://github.com/
 
