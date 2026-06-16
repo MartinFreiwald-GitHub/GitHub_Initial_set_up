@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Starting with the idea of using the .git directories database to store your commits to extra branches or features in your project as it evolves.  By adding a branch after setting some code on the first doc you create.  When you feel that a new feature is coming up lets say its a banner image or the first object to then follow later as the class.  You could and should.  Create a branch as the second branch.  Continue to add code then commit the code.  Now your ready for the adding the third branch for your class.  You add the branch and put on your class in your code write.  Then commit it.  You now have a three copies of your code page to begin with in the database.  That can be retrieved.  Not lost!!!
+Starting with the idea of using the .git directory.  That has a database with in the folder of .git.  To store your commits upon extra branches as they are the features in your project as it evolves.  By adding a branch after setting some code within the first doc you create.  When you feel that a new feature is coming up.  Lets say its a banner image for that web page or the first object for that full-stack web developer as usual to then follow later with the class data.  You could and should.  Create a branch as the second branch.  Continue to add code and then save the document. Now commit the code.  Your ready for the adding the third branch for your class.  You add the branch and put on your class code data and save the document.  Then commit it.  You now have a three copies of your code page to begin with in the database.  That can be retrieved.  Not lost!!!
 
 
 
